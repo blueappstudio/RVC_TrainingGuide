@@ -6,5 +6,3 @@
 - Audacity: open vocal > Effect > Noise Reduction, Effect > Repeat Noise Reduction
 - Audacity: open all vocal files, Ctrl + A, Effect > Normalization
 - Audacity: open all vocal files, Effect > Truncate Silence (Option: Compress Excess Silence, Threshold -45 dB, duration 0.25, truncate to 0.05)
-- 
-- 
