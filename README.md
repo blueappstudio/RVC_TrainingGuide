@@ -1,6 +1,6 @@
 # Extracting vocal and instrumental
 - Using UVR to extract WAV version of instrumental and vocal
-- MDX-Net, segment 1024, overlap 24, Model MDSX23C-InstVoc HQ
+- MDX-Net, segment 4000, overlap Default, Model MDSX23C-Karaoke 2 for the best results
 
 
 # Removing Reverb/Echo
